@@ -3,15 +3,14 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.3.3</title>
+            <title>Version 1.3.4</title>
             <description>
-                1. تنبيه المستخدم عند عدم توفر شبكة
-                2. رفع سقف السلة الى 50 منتج
-                3. امكانية ادخال رقم الهاتف باللغة العربية
-                4. اصلاح بعض المشاكل
+                1. امكانية البحث عن منتج داخل قائمة معينة
+                2. عرض نسخة التطبيق في صفحة الملف الشخصي
+                3. اصلاح بعض المشاكل
             </description>
-            <pubDate>Friday, 3 June 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.3.3" sparkle:os="android" />
+            <pubDate>Monday, 14 June 2021 17:25:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.3.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
