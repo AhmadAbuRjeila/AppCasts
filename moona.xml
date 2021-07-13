@@ -3,14 +3,13 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.3.4</title>
+            <title>Version 1.3.8</title>
             <description>
-                1. امكانية البحث عن منتج داخل قائمة معينة
-                2. عرض نسخة التطبيق في صفحة الملف الشخصي
-                3. اصلاح بعض المشاكل
+                1. عرض قيمة الطلب ووقت التوصيل في سجل الطلبات
+                2. دعم التنبيهات لتسهيل وصول المستخدمين للمنتجات والتعرف على ميزات التطبيق
             </description>
-            <pubDate>Monday, 14 June 2021 17:25:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.3.4" sparkle:os="android" />
+            <pubDate>Monday, 13 July 2021 9:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.3.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
