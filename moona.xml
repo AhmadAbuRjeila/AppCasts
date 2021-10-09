@@ -3,15 +3,12 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.4.2</title>
+            <title>Version 1.5.2</title>
             <description>
-                ١. تحسين طريقة اختار المنطقة
-                ٢. امكانية اضافة مناطق جديدة دون الحاجة لتحديث التطبيق
-                ٣. السماح للمستخدم بتعديل منطقته        
-                ٤. امكانية عرض عدد غير محدود من الاقسام
+                تحسين عرض الخارطة لمساعدة المستخدم على تحديد موقعه بشكل دقيق
             </description>
-            <pubDate>Saturday, 21 Aug 2021 16:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.4.2" sparkle:os="android" />
+            <pubDate>Saturday, 9 Sep 2021 10:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.5.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
