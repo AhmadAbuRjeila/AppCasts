@@ -3,12 +3,15 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.5.2</title>
+            <title>Version 1.6.0</title>
             <description>
-                تحسين عرض الخارطة لمساعدة المستخدم على تحديد موقعه بشكل دقيق
+                ١. امكانية اضافة ملاحظات عند تاكيد الطلب
+                ٢. تحسين عرض صفحة البحث
+                ٣. تحسين عرض الطلبات
+                ٤. امكانية الخروج من صفحة تسجيل الدخول
             </description>
-            <pubDate>Saturday, 9 Sep 2021 10:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.5.2" sparkle:os="android" />
+            <pubDate>Sunday, 7 Nov 2021 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.6.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
