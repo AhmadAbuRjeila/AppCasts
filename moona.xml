@@ -3,15 +3,12 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.6.0</title>
+            <title>Version 1.7.1</title>
             <description>
-                ١. امكانية اضافة ملاحظات عند تاكيد الطلب
-                ٢. تحسين عرض صفحة البحث
-                ٣. تحسين عرض الطلبات
-                ٤. امكانية الخروج من صفحة تسجيل الدخول
+                تمييز المنتجات التي لم تعد متوفرة في المخزن
             </description>
-            <pubDate>Sunday, 7 Nov 2021 22:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.6.0" sparkle:os="android" />
+            <pubDate>Monday, 15 Nov 2021 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.7.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
