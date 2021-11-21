@@ -3,12 +3,13 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.7.1</title>
+            <title>Version 1.7.2</title>
             <description>
-                تمييز المنتجات التي لم تعد متوفرة في المخزن
+                ١. تحسين دقة تحديد موقع المستخدم
+                ٢. اصلاح مشكلة عرض الموقع في حال عدم اعطاء الصلاحية من قبل المستخدم
             </description>
-            <pubDate>Monday, 15 Nov 2021 22:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.7.1" sparkle:os="android" />
+            <pubDate>Saturday, 20 Nov 2021 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.7.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
