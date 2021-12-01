@@ -3,13 +3,12 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.7.2</title>
+            <title>Version 1.8.0</title>
             <description>
-                ١. تحسين دقة تحديد موقع المستخدم
-                ٢. اصلاح مشكلة عرض الموقع في حال عدم اعطاء الصلاحية من قبل المستخدم
+                ١. دعم مناطق جديدة بحيث يختلف الحد الادنى للتوصيل المجاني وتكلفة التوصيل حسب المنطقة
             </description>
-            <pubDate>Saturday, 20 Nov 2021 22:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.7.2" sparkle:os="android" />
+            <pubDate>Wednesday, 1 Dec 2021 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.8.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
