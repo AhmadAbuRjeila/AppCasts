@@ -3,13 +3,13 @@
     <channel>
         <title>New Moona version</title>
         <item>
-            <title>Version 1.9.0</title>
+            <title>Version 2.0.0</title>
             <description>
-                ١. تحسين عرض الخصومات
+                ١. تسهيل الوصول للعروضات والمنتجات الجديدة
                 ٢. اصلاح بعض المشاكل
             </description>
-            <pubDate>Jan, 20 Dec 2022 22:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="1.9.0" sparkle:os="android" />
+            <pubDate>March 18, 2022 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="2.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
