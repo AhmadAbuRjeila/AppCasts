@@ -18,9 +18,9 @@
                 ١. ترتيب المنتجات حسب التقيم
             </description>
             <pubDate>July 20, 2022 22:00:00 +0000</pubDate>
-            <sparkle:minAppVersion>2.3.1</sparkle:minAppVersion>
+            <sparkle:minimumSystemVersion>2.3.1</sparkle:minimumSystemVersion>
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="2.4.0" sparkle:os="android" />
-            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.4.0" sparkle:minAppVersion="2.3.1" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.4.0" sparkle:minimumSystemVersion="2.3.1" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
