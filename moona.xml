@@ -29,5 +29,14 @@
             <pubDate>July 27, 2022 22:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.5.0" sparkle:os="ios" />
         </item>
+        <!--------------------------- -->
+        <!-- 2.5.1 -->
+        <!-- IOS -->
+         <item>
+            <title>Version 2.5.1</title>
+            <description>اصلاح بعض المشاكل</description>
+            <pubDate>Aug 12, 2022 22:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.5.1" sparkle:os="ios" />
+        </item>
     </channel>
 </rss>
