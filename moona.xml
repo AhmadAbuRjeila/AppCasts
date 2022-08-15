@@ -38,5 +38,14 @@
             <pubDate>Aug 12, 2022 22:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.5.1" sparkle:os="ios" />
         </item>
+        <!--------------------------- -->
+        <!-- 2.6.0 -->
+        <!-- Android -->
+        <item>
+            <title>Version 2.6.0</title>
+            <description>اصلاح بعض المشاكل</description>
+            <pubDate>Aug 13, 2022 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="2.6.0" sparkle:os="android" />
+        </item>
     </channel>
 </rss>
