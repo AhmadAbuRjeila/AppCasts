@@ -54,5 +54,15 @@
             <pubDate>Aug 16, 2022 22:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.6.0" sparkle:os="ios" />
         </item>
+        <!--------------------------- -->
+        <!-- 2.6.1 -->
+        <!-- IOS -->
+         <item>
+            <title>Version 2.6.1</title>
+            <description>١. تمييز المنتجات التي نفذت من المخزن اثناء البحث
+٢. اجراء بعض التحسينات</description>
+            <pubDate>Sep 18, 2022 22:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.6.1" sparkle:os="ios" />
+        </item>
     </channel>
 </rss>
