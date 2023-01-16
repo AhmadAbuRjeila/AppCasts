@@ -80,5 +80,21 @@
             <pubDate>Dec 10, 2022 22:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.7.2" sparkle:os="ios" />
         </item>
+        <!--------------------------- -->
+        <!-- 2.8.2 -->
+        <!-- Android -->
+        <item>
+            <title>Version 2.8.2</title>
+            <description>اصلاح بعض المشاكل</description>
+            <pubDate>Jan 16, 2023 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="2.8.2" sparkle:os="android" />
+        </item>
+        <!-- IOS -->
+         <item>
+            <title>Version 2.8.2</title>
+            <description>اجراء بعض التحسينات</description>
+            <pubDate>Jan 16, 2022 22:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.8.2" sparkle:os="ios" />
+        </item>
     </channel>
 </rss>
