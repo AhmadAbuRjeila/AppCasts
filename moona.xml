@@ -116,5 +116,23 @@
             <pubDate>Feb 2, 2023 22:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="2.9.1" sparkle:os="ios" />
         </item>
+        <!--------------------------- -->
+        <!-- 3.0.1 -->
+        <!-- Android -->
+        <item>
+            <title>Version 3.0.1</title>
+            <description>١. اصلاح مشكلة عدم ظهور المنتجات غير المتوفرة عند ارسال الطلب
+٢. اجراء بعض التحسينات في صفحة البحث</description>
+            <pubDate>Mar 9, 2023 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="3.0.1" sparkle:os="android" />
+        </item>
+        <!-- IOS -->
+         <item>
+            <title>Version 3.0.1</title>
+            <description>١. اصلاح مشكلة عدم ظهور المنتجات غير المتوفرة عند ارسال الطلب
+٢. اجراء بعض التحسينات في صفحة البحث</description>
+            <pubDate>Mar 9, 2023 22:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="3.0.1" sparkle:os="ios" />
+        </item>
     </channel>
 </rss>
