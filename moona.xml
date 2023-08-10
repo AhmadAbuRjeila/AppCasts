@@ -200,5 +200,21 @@
             <pubDate>July 25, 2023 22:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="3.3.1" sparkle:os="ios" />
         </item>
+        <!--------------------------- -->
+        <!-- 3.4.0 -->
+        <!-- Android -->
+        <item>
+            <title>Version 3.4.0</title>
+            <description>اجراء بعض التحسينات في طريقة التسجيل</description>
+            <pubDate>Aug 10, 2023 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="3.4.0" sparkle:os="android" />
+        </item>
+        <!-- IOS -->
+         <item>
+            <title>Version 3.4.0</title>
+            <description>اجراء بعض التحسينات في طريقة التسجيل</description>
+            <pubDate>Aug 10, 2023 22:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="3.4.0" sparkle:os="ios" />
+        </item>
     </channel>
 </rss>
