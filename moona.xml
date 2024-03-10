@@ -309,5 +309,21 @@
             <pubDate>Dec 16, 2023 22:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="3.8.2" sparkle:os="android" />
         </item>
+        <!--------------------------- -->
+        <!-- 3.4.0 -->
+        <!-- Android -->
+        <item>
+            <title>Version 4.0.0</title>
+            <description>امكانية التواصل مع فريق مونة من خلال الواتس اب</description>
+            <pubDate>Mar 10, 2024 22:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="4.0.0" sparkle:os="android" />
+        </item>
+        <!-- IOS -->
+         <item>
+            <title>Version 4.0.0</title>
+            <description>امكانية التواصل مع فريق مونة من خلال الواتس اب</description>
+            <pubDate>Mar 10, 2024 22:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="4.0.0" sparkle:os="ios" />
+        </item>
     </channel>
 </rss>
