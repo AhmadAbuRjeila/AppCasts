@@ -325,5 +325,14 @@
             <pubDate>Mar 10, 2024 22:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/moona-%D9%85%D9%88%D9%86%D8%A9/id1565215405" sparkle:version="4.0.0" sparkle:os="ios" />
         </item>
+        <!--------------------------- -->
+        <!-- 4.0.1 -->
+        <!-- Android -->
+        <item>
+            <title>Version 4.0.1</title>
+            <description>امكانية التواصل مع فريق مونة من خلال الواتس اب</description>
+            <pubDate>May 04, 2024 15:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonamarket.moona" sparkle:version="4.0.1" sparkle:os="android" />
+        </item>
     </channel>
 </rss>
